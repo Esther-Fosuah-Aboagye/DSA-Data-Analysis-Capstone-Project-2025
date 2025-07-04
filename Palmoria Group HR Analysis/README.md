@@ -26,3 +26,21 @@ Kaduna has the highest number of employees, followed by Abuja and then Lagos.
 - Females are rated more positively than males.
 
 For negative rating males are more compared to females and other genders.
+- Comparing Females to Males in each Region and Departments. Out of 12 department, 3 (Marketing, Training, Engineering) pays the females more whilst 9 pays the males more. The major reason being that males are more than females in the company,
+
+- However, In Department like (Business Development, Services, Human Resource, and Research and Development), despite the number of females being higher than males, the males are being paid more and higher than the females.
+In all the Region Males are being paid Higher than Females.
+There is a huge Gender pay gap in all the Regions
+- Male employees earn an average of $75K compared to $72K for Female employees.
+- Out of 12 Department, 5 has more Females than males while, 7 has more Males than Females.
+- Palmoria does not the minimum requirement as only 292 employees are paid above $90,000.
+654 Employees are paid below the minimum requirement.
+- Kaduna Region received the highest bonus payout (38.18%), indicating a high concentration of top-performing employees. In contrast, Lagos Region (27.14%) had the lowest bonus allocation, suggesting potential underperformance or rating inconsistencies.
+- And lastly a Table showing: The amount to be paid as a bonus to
+
+individual employees and the total amount to be paid to individual employees
+
+(salary inclusive of bonus). Where, Employees with ratings greater than 3 are paid 10% bonus.
+
+## Recommendations
+
