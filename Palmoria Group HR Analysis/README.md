@@ -43,4 +43,26 @@ individual employees and the total amount to be paid to individual employees
 (salary inclusive of bonus). Where, Employees with ratings greater than 3 are paid 10% bonus.
 
 ## Recommendations
+1. Address Gender Inequality in Pay:
+- Conduct a comprehensive gender pay audit to compare salaries for similar roles and levels.
+-	Enforce a transparent salary structure to ensure equal pay for equal work.
+-	Review and adjust salaries in departments like HR, R&D, and Services, where females earn less despite being the majority.
+
+2. Improve Female Representation in High-Paying Roles
+- Develop targeted recruitment strategies to attract more women, especially into higher-paying departments like Engineering and Business Development.
+- Implement a leadership development program for female employees to grow into senior roles.
+
+3. Close the Regional Gender Pay Gaps
+- Establish region-specific diversity and pay equity goals.
+- Launch awareness and training programs on inclusive pay practices for regional HR managers.
+
+4. Ensure Compliance with the $90,000 Minimum Salary Regulation.
+
+5. Leverage Performance Data to Improve Bonus Allocation.
+
+6. Increase Transparency in Bonus & Salary Calculation.
+
+Palmoria Group is currently facing major risks in terms of gender inequality, pay structure, and regulatory compliance. Addressing these issues through fair compensation practices, targeted recruitment, and transparent policies will improve employee morale, reduce legal risk, and support the company's goal of international expansion
+
+
 
