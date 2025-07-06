@@ -47,3 +47,5 @@ Use pivot tables and calculated columns where necessary to answer the following:
 10.	How Discounts Relate to Ratings
 :	A slight decline in average rating is observed at very high discount levels, which may suggest lower-rated products are being discounted to boost sales
 
+### 📊 Dashboard
+
