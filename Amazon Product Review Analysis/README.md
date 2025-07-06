@@ -49,3 +49,4 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 ### 📊 Dashboard
 
+![Amazon Dashboard](https://github.com/user-attachments/assets/3b083855-7091-4603-a2f9-dc36a44c68a6)
